@@ -7,3 +7,5 @@ if (urlParams.get('app') == 'wsite') {
 }
 
 console.log("test " + stat)
+console.log(app)
+console.log(urlParams)
